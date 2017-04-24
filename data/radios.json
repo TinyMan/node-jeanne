@@ -1,5 +1,5 @@
 {
-    "radio kawa": {
+    "radiokawa": {
         "name": "Radio Kawa",
         "bitrate": 128000,
         "url": "https://api.spreaker.com/v2/episodes/11709034/stream"
