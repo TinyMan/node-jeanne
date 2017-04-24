@@ -1,0 +1,38 @@
+{
+    "name": "jeanne",
+    "version": "0.1.0",
+    "description": "Jeanne is meant to be a powerful Music bot for Mumble, with voice recognition",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "TinyMan <raph.a.uzan@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "cheerio": "^0.22.0",
+        "file-type": "^3.8.0",
+        "fixedqueue": "^0.0.1",
+        "fluent-ffmpeg": "^2.1.0",
+        "google-speech": "git+https://github.com/TinyMan/google-speech.git",
+        "request": "^2.81.0",
+        "sqlite3": "^3.1.6",
+        "stumble": "^1.1.1",
+        "youtube-node": "^1.3.0",
+        "ytdl-core": "0.13.0"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TinyMan/node-jeanne.git"
+    },
+    "keywords": [
+        "mumble",
+        "bot",
+        "voice",
+        "music"
+    ],
+    "bugs": {
+        "url": "https://github.com/TinyMan/node-jeanne/issues"
+    },
+    "homepage": "https://github.com/TinyMan/node-jeanne#readme"
+}

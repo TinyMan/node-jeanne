@@ -1,0 +1,603 @@
+{
+    "radio kawa": {
+        "name": "Radio Kawa",
+        "bitrate": 128000,
+        "url": "https://api.spreaker.com/v2/episodes/11709034/stream"
+    },
+    "bim team radio": {
+        "name": "Bim Team Radio",
+        "bitrate": 128000,
+        "url": "https://www.radioking.com/play/bim-team-radio"
+    },
+    "nova": {
+        "name": "Nova",
+        "bitrate": 128000,
+        "url": "http://novazz.ice.infomaniak.ch/novazz-128.mp3"
+    },
+    "france info": {
+        "name": "franceinfo",
+        "bitrate": "64",
+        "url": "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france inter": {
+        "name": "France Inter",
+        "bitrate": 128000,
+        "url": "http://direct.franceinter.fr/live/franceinter-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france musique": {
+        "name": "France Musique",
+        "bitrate": 128000,
+        "url": "http://direct.francemusique.fr/live/francemusique-midfi.mp3?ID=f9fbk29m84"
+    },
+    "skyrock": {
+        "name": "Skyrock",
+        "bitrate": 128000,
+        "format": "mp3",
+        "url": "http://icecast.skyrock.net/s/natio_mp3_128k?type=.mp3"
+    },
+    "oui fm": {
+        "name": "Oui FM",
+        "bitrate": 128000,
+        "format": "mp3",
+        "url": "http://stream.ouifm.fr/ouifm-high.mp3"
+    },
+    "france musique classique easy": {
+        "name": "France Musique Classique easy",
+        "bitrate": "192",
+        "url": "http://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3?ID=f9fbk29m84"
+    },
+    "france musique classique plus": {
+        "name": "France Musique Classique plus",
+        "bitrate": "192",
+        "url": "http://direct.francemusique.fr/live/francemusiqueclassiqueplus-hifi.mp3?ID=f9fbk29m84"
+    },
+    "france musique concerts de radio france": {
+        "name": "France Musique Concerts de Radio France",
+        "bitrate": "192",
+        "url": "http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3?ID=f9fbk29m84"
+    },
+    "france musique musiques du monde - ocora": {
+        "name": "France Musique Musiques du monde - Ocora",
+        "bitrate": "192",
+        "url": "http://direct.francemusique.fr/live/francemusiqueocoramonde-hifi.mp3?ID=f9fbk29m84"
+    },
+    "france musique la jazz": {
+        "name": "France Musique La Jazz",
+        "bitrate": "192",
+        "url": "http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3?ID=f9fbk29m84"
+    },
+    "france musique la contemporaine": {
+        "name": "France Musique La Contemporaine",
+        "bitrate": "192",
+        "url": "http://direct.francemusique.fr/live/francemusiquelacontemporaine-hifi.mp3?ID=f9fbk29m84"
+    },
+    "france culture": {
+        "name": "France Culture",
+        "bitrate": 128000,
+        "url": "http://direct.franceculture.fr/live/franceculture-midfi.mp3?ID=f9fbk29m84"
+    },
+    "fip (national)": {
+        "name": "FIP (national)",
+        "bitrate": 128000,
+        "url": "http://direct.fipradio.fr/live/fip-midfi.mp3?ID=f9fbk29m84"
+    },
+    "fip à nantes": {
+        "name": "FIP à Nantes",
+        "bitrate": 128000,
+        "url": "http://audio.scdn.arkena.com/11344/fipnantes-midfi128.mp3"
+    },
+    "fip à bordeaux": {
+        "name": "FIP à Bordeaux",
+        "bitrate": 128000,
+        "url": "http://audio.scdn.arkena.com/11343/fipbordeaux-midfi128.mp3"
+    },
+    "fip à strasbourg": {
+        "name": "FIP à Strasbourg",
+        "bitrate": 128000,
+        "url": "http://direct.fipradio.fr/live/fipstrasbourg-midfi.mp3?ID=f9fbk29m84"
+    },
+    "fip autour du rock": {
+        "name": "FIP autour du rock",
+        "bitrate": "192",
+        "url": "http://direct.fipradio.fr/live/fip-webradio1.mp3?ID=f9fbk29m84"
+    },
+    "fip autour du jazz": {
+        "name": "FIP autour du jazz",
+        "bitrate": "192",
+        "url": "http://direct.fipradio.fr/live/fip-webradio2.mp3?ID=f9fbk29m84"
+    },
+    "fip autour du groove": {
+        "name": "FIP autour du groove",
+        "bitrate": "192",
+        "url": "http://direct.fipradio.fr/live/fip-webradio3.mp3?ID=f9fbk29m84"
+    },
+    "fip autour du monde": {
+        "name": "FIP autour du monde",
+        "bitrate": "192",
+        "url": "http://direct.fipradio.fr/live/fip-webradio4.mp3?ID=f9fbk29m84"
+    },
+    "tout nouveau, tout fip": {
+        "name": "Tout nouveau, tout FIP",
+        "bitrate": "192",
+        "url": "http://direct.fipradio.fr/live/fip-webradio5.mp3?ID=f9fbk29m84"
+    },
+    "mouv'": {
+        "name": "Mouv’",
+        "bitrate": 128000,
+        "url": "http://direct.mouv.fr/live/mouv-midfi.mp3?ID=f9fbk29m84"
+    },
+    "mouv' xtra": {
+        "name": "Mouv’ Xtra",
+        "bitrate": 128000,
+        "url": "http://direct.mouv.fr/live/mouvxtra-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu alsace": {
+        "name": "France Bleu Alsace",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbalsace-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu armorique": {
+        "name": "France Bleu Armorique",
+        "bitrate": 128000,
+        "url": "http://audio.scdn.arkena.com/11358/fbarmorique-midfi128.mp3"
+    },
+    "france bleu auxerre": {
+        "name": "France Bleu Auxerre",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbauxerre-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu azur": {
+        "name": "France Bleu Azur",
+        "bitrate": 128000,
+        "url": "http://audio.scdn.arkena.com/11361/fbazur-midfi128.mp3"
+    },
+    "france bleu béarn ": {
+        "name": "France Bleu Béarn ",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbbearn-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu belfort-montbéliard": {
+        "name": "France Bleu Belfort-Montbéliard",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbbelfort-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu berry": {
+        "name": "France Bleu Berry",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbberry-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu besançon": {
+        "name": "France Bleu Besançon",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbbesancon-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu bourgogne": {
+        "name": "France Bleu Bourgogne",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbbourgogne-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu breizh izel": {
+        "name": "France Bleu Breizh Izel",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbbreizizel-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu champagne-ardenne": {
+        "name": "France Bleu Champagne-Ardenne",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbchampagne-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu cotentin": {
+        "name": "France Bleu Cotentin",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbcotentin-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu creuse": {
+        "name": "France Bleu Creuse",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbcreuse-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu drôme ardèche": {
+        "name": "France Bleu Drôme Ardèche",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbdromeardeche-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu elsass": {
+        "name": "France Bleu Elsass",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/Fbelsass-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu gard lozère": {
+        "name": "France Bleu Gard Lozère",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbgardlozere-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu gascogne": {
+        "name": "France Bleu Gascogne",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbgascogne-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu gironde": {
+        "name": "France Bleu Gironde",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbgironde-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu hérault": {
+        "name": "France Bleu Hérault",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbherault-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu isère": {
+        "name": "France Bleu Isère",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbisere-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu la rochelle": {
+        "name": "France Bleu La Rochelle",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fblarochelle-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu limousin": {
+        "name": "France Bleu Limousin",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fblimousin-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu loire océan": {
+        "name": "France Bleu Loire Océan",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbloireocean-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu lorraine nord": {
+        "name": "France Bleu Lorraine Nord",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fblorrainenord-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu maine": {
+        "name": "France Bleu Maine",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbmaine-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu mayenne": {
+        "name": "France Bleu Mayenne",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbmayenne-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu nord": {
+        "name": "France Bleu Nord",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbnord-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu normandie (calvados – orne)": {
+        "name": "France Bleu Normandie (Calvados – Orne)",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbbassenormandie-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu normandie (seine-maritime – eure)": {
+        "name": "France Bleu Normandie (Seine-Maritime – Eure)",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbhautenormandie-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu orléans": {
+        "name": "France Bleu Orléans",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fborleans-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu paris": {
+        "name": "France Bleu Paris",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fb1071-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu pays d’auvergne": {
+        "name": "France Bleu Pays d’Auvergne",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbpaysdauvergne-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu pays de savoie": {
+        "name": "France Bleu Pays de Savoie",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbpaysdesavoie-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu pays basque": {
+        "name": "France Bleu Pays Basque",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbpaysbasque-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu perigord": {
+        "name": "France Bleu Perigord",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbperigord-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu picardie": {
+        "name": "France Bleu Picardie",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbpicardie-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu poitou": {
+        "name": "France Bleu Poitou",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbpoitou-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu provence": {
+        "name": "France Bleu Provence",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbprovence-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu rcfm frequenza mora": {
+        "name": "France Bleu RCFM Frequenza Mora",
+        "bitrate": 128000,
+        "url": "http://audio.scdn.arkena.com/11371/fbfrequenzamora-midfi128.mp3"
+    },
+    "france bleu roussillon": {
+        "name": "France Bleu Roussillon",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbroussillon-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu saint-étienne-loire": {
+        "name": "France Bleu Saint-Étienne-Loire",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbstetienne-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu sud lorraine": {
+        "name": "France Bleu Sud Lorraine",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbsudlorraine-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu toulouse": {
+        "name": "France Bleu Toulouse",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbtoulouse-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu touraine": {
+        "name": "France Bleu Touraine",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbtouraine-midfi.mp3?ID=f9fbk29m84"
+    },
+    "france bleu vaucluse": {
+        "name": "France Bleu Vaucluse",
+        "bitrate": 128000,
+        "url": "http://direct.francebleu.fr/live/fbvaucluse-midfi.mp3?ID=f9fbk29m84"
+    },
+    "rfi monde": {
+        "name": "RFI Monde",
+        "bitrate": "64",
+        "url": "http://live02.rfi.fr/rfimonde-64.mp3"
+    },
+    "rfi afrique": {
+        "name": "RFI Afrique",
+        "bitrate": "64",
+        "url": "http://live02.rfi.fr/rfiafrique-64.mp3"
+    },
+    "bfm": {
+        "name": "BFM",
+        "bitrate": "64",
+        "url": "http://bfmbusiness.scdn.arkena.com/bfmbusiness.mp3"
+    },
+    "canal fm": {
+        "name": "Canal FM",
+        "bitrate": 128000,
+        "url": "http://95.81.146.10/4532/canalfmhd.mp3"
+    },
+    "canal sud": {
+        "name": "Canal Sud",
+        "bitrate": 128000,
+        "url": "http://mp3.live.tv-radio.com/canalsud/all/canalsud.mp3"
+    },
+    "chérie fm": {
+        "name": "Chérie FM",
+        "bitrate": 128000,
+        "url": "http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=listenlive"
+    },
+    "europe 1": {
+        "name": "Europe 1",
+        "bitrate": 128000,
+        "url": "http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3"
+    },
+    "evasion fm": {
+        "name": "Evasion FM",
+        "bitrate": 128000,
+        "url": "http://stream.evasionfm.com/stream.mp3"
+    },
+    "flor fm": {
+        "name": "Flor FM",
+        "bitrate": 128000,
+        "url": "http://stream.florfm.com:8000/florfm"
+    },
+    "fréquence3": {
+        "name": "Fréquence3",
+        "bitrate": 128000,
+        "url": "http://rod.frequence3.net:80/frequence3-128.mp3"
+    },
+    "gold fréquence3": {
+        "name": "Gold Fréquence3",
+        "bitrate": 128000,
+        "url": "http://rod.frequence3.net:80/frequence3ac-128.mp3"
+    },
+    "urban fréquence3": {
+        "name": "Urban Fréquence3",
+        "bitrate": 128000,
+        "url": "http://rod.frequence3.net:80/frequence3urban-128.mp3"
+    },
+    "fréquence plus": {
+        "name": "Fréquence Plus",
+        "bitrate": 128000,
+        "url": "http://freqplus.ice.infomaniak.ch:80/freqplus-high"
+    },
+    "gold fm": {
+        "name": "Gold FM",
+        "bitrate": 128000,
+        "url": "http://mp3.live.tv-radio.com/goldfm/all/goldfm.mp3"
+    },
+    "jazz radio": {
+        "name": "Jazz Radio",
+        "bitrate": 128000,
+        "url": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3"
+    },
+    "kiss fm dance": {
+        "name": "Kiss FM Dance",
+        "bitrate": 128000,
+        "url": "http://mp3.live.tv-radio.com/kissdance/all/kissdance-128k.mp3"
+    },
+    "magic radio": {
+        "name": "Magic Radio",
+        "bitrate": "192"
+    },
+    "nostalgie": {
+        "name": "Nostalgie",
+        "bitrate": 128000,
+        "url": "http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=listenlive"
+    },
+    "nrj": {
+        "name": "NRJ",
+        "bitrate": 128000,
+        "url": "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=listenlive"
+    },
+    "oceane fm": {
+        "name": "Oceane FM",
+        "bitrate": 128000,
+        "url": "http://mp3.live.tv-radio.com/oceanefm/all/oceanefm.mp3"
+    },
+    "100% radio": {
+        "name": "100% Radio",
+        "bitrate": 128000,
+        "url": "http://mp3.live.tv-radio.com/centpourcent/all/centpourcent-128k.mp3"
+    },
+    "radio 6": {
+        "name": "Radio 6",
+        "bitrate": 128000,
+        "url": "http://176.31.115.208:80/dunkerque"
+    },
+    "radio bonne nouvelle": {
+        "name": "Radio Bonne Nouvelle",
+        "bitrate": 128000,
+        "url": "\nhttp://mp3.live.tv-radio.com/bonnenouvelle/all/bonnenouvelle.mp3"
+    },
+    "radio bruaysis": {
+        "name": "Radio Bruaysis",
+        "bitrate": 128000,
+        "url": "http://radiobruaysis.ice.infomaniak.ch:80/radiobruaysis-128"
+    },
+    "radio campus rennes": {
+        "name": "Radio Campus Rennes",
+        "bitrate": "192",
+        "url": "http://stream.radiocampusrennes.fr:8001/rcr"
+    },
+    "radio emotion": {
+        "name": "Radio Emotion",
+        "bitrate": 128000,
+        "url": "http://95.81.147.10/4837/rad_171419.mp3"
+    },
+    "radio galaxie": {
+        "name": "Radio Galaxie",
+        "bitrate": "64",
+        "url": "http://radiogalaxie.ice.infomaniak.ch:80/radiogalaxie-64.aac"
+    },
+    "radio menergy": {
+        "name": "Radio Menergy",
+        "bitrate": "160",
+        "url": "http://mp3.live.tv-radio.com/menergy/all/menergy.mp3"
+    },
+    "radio scoop": {
+        "name": "Radio Scoop",
+        "bitrate": 128000,
+        "url": "http://mp3.live.tv-radio.com/scooplyon/all/scooplyon-128k.mp3"
+    },
+    "radio scoop 91.3": {
+        "name": "Radio Scoop 91.3",
+        "bitrate": 128000,
+        "url": "http://mp3.live.tv-radio.com/scoop/all/scoopst.mp3"
+    },
+    "radio scoop 98.8": {
+        "name": "Radio Scoop 98.8",
+        "bitrate": "64",
+        "url": "http://mp3.live.tv-radio.com/scoop/all/scoopclermont.mp3"
+    },
+    "radio scoop 89.2": {
+        "name": "Radio Scoop 89.2",
+        "bitrate": "64",
+        "url": "http://mp3.live.tv-radio.com/scoop/all/scoopbeb.mp3"
+    },
+    "radio scoop 100% années 80": {
+        "name": "Radio Scoop 100% Années 80",
+        "bitrate": 128000,
+        "url": "http://stream.radioscoop.com:80/scoop1.mp3"
+    },
+    "radio scoop 100% music pod": {
+        "name": "Radio Scoop 100% Music Pod",
+        "bitrate": 128000,
+        "url": "http://stream.radioscoop.com:80/scoop2.mp3"
+    },
+    "radio scoop 100% powerdance": {
+        "name": "Radio Scoop 100% Powerdance",
+        "bitrate": 128000,
+        "url": "http://stream.radioscoop.com:80/scoop3.mp3"
+    },
+    "radio scoop 100% salon du mariage": {
+        "name": "Radio Scoop 100% Salon du Mariage",
+        "bitrate": 128000,
+        "url": "http://stream.radioscoop.com:80/scoop4.mp3"
+    },
+    "rfm": {
+        "name": "RFM",
+        "bitrate": 128000,
+        "url": "http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3"
+    },
+    "rfm collector": {
+        "name": "RFM Collector",
+        "bitrate": 128000,
+        "url": "http://rfm-wr1-mp3-128.scdn.arkena.com/rfm.mp3"
+    },
+    "rfm night fever": {
+        "name": "RFM Night Fever",
+        "bitrate": 128000,
+        "url": "http://rfm-wr2-mp3-128.scdn.arkena.com/rfm.mp3"
+    },
+    "rire et chansons": {
+        "name": "Rire et Chansons",
+        "bitrate": 128000,
+        "url": "http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=listenlive"
+    },
+    "rmc": {
+        "name": "RMC",
+        "bitrate": "64",
+        "url": "http://rmc.scdn.arkena.com/rmc.mp3"
+    },
+    "toulouse fm": {
+        "name": "Toulouse FM",
+        "bitrate": 128000,
+        "url": "http://mp3.live.tv-radio.com/toulousefm/all/toulousefm.mp3"
+    },
+    "virgin radio": {
+        "name": "Virgin Radio",
+        "bitrate": 128000,
+        "url": "http://mp3lg4.tdf-cdn.com/9243/lag_164753.mp3"
+    },
+    "virgin radio classics": {
+        "name": "Virgin Radio Classics",
+        "bitrate": 128000,
+        "url": "http://mp3lg3.tdf-cdn.com/9146/lag_103325.mp3"
+    },
+    "virgin radio new": {
+        "name": "Virgin Radio New",
+        "bitrate": 128000,
+        "url": "http://mp3lg3.tdf-cdn.com/9145/lag_103228.mp3"
+    },
+    "virgin radio electro shock": {
+        "name": "Virgin Radio Electro Shock",
+        "bitrate": 128000,
+        "url": "http://mp3lg3.tdf-cdn.com/9148/lag_103401.mp3"
+    },
+    "virgin radio hit": {
+        "name": "Virgin Radio Hit",
+        "bitrate": 128000,
+        "url": "http://mp3lg3.tdf-cdn.com/9150/lag_103440.mp3"
+    },
+    "virgin radio rock": {
+        "name": "Virgin Radio Rock",
+        "bitrate": 128000,
+        "url": "http://mp3lg3.tdf-cdn.com/9151/lag_103523.mp3"
+    },
+    "vitamine": {
+        "name": "Vitamine",
+        "bitrate": 128000,
+        "url": "http://radiovitamine.ice.infomaniak.ch:80/radiovitamine-128"
+    }
+}
