@@ -847,9 +847,9 @@ ms@0.7.3:
   version "0.7.3"
   resolved "https://registry.yarnpkg.com/ms/-/ms-0.7.3.tgz#708155a5e44e33f5fd0fc53e81d0d40a91be1fff"
 
-mumble@^0.3.9:
+mumble@^0.3.9, "mumble@git+https://github.com/TinyMan/node-mumble.git":
   version "0.3.11"
-  resolved "git+https://github.com/TinyMan/node-mumble.git#cc13df3c6b0464ca875bcee97fedb56e6cf0630c"
+  resolved "git+https://github.com/TinyMan/node-mumble.git#373070c31fcfb153edb0dc291785c3479fcbef7e"
   dependencies:
     celt "^0.1.11"
     jitterbuffer "^0.1.12"
