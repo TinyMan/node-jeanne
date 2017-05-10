@@ -91,6 +91,10 @@ asynckit@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
 
+autolink-js@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/autolink-js/-/autolink-js-1.0.2.tgz#2fb443ab8b101ab1591560cc699b2a5c33f0bdf3"
+
 aws-sign2@~0.5.0:
   version "0.5.0"
   resolved "https://registry.yarnpkg.com/aws-sign2/-/aws-sign2-0.5.0.tgz#c57103f7a17fc037f02d7c2e64b602ea223f7d63"
