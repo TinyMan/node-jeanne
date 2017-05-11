@@ -23,6 +23,9 @@
         "info": true,
 		"movement": {
 			"home": "Taverne Maggle"
-		}
+		},
+        "youtube": {
+            "search_max_results": 5
+        }
     }
 }
