@@ -25,7 +25,8 @@
 			"home": "Taverne Maggle"
 		},
         "youtube": {
-            "search_max_results": 5
+            "search_max_results": 5,
+            "norepeat_length": 15
         }
     }
 }

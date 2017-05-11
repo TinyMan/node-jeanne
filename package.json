@@ -11,6 +11,7 @@
     "dependencies": {
         "autolink-js": "^1.0.2",
         "cheerio": "^0.22.0",
+        "es6-promisify": "^5.0.0",
         "file-type": "^3.8.0",
         "fixedqueue": "^0.0.1",
         "fluent-ffmpeg": "^2.1.0",
