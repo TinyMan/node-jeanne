@@ -1,32 +1,34 @@
 {
-  "operator": "!",
-    "mumble": {
-        "server": "192.168.1.18",
-        "port": 64738,
-        "username": "Jeanne",
-        "password": "",
-        "key": "/home/pi/share/jeanne/keys/jeanne.key.pem",
-        "cert": "/home/pi/share/jeanne/keys/jeanne.crt.pem"
-    },
-    "extensions": {
-        "audio": {
-            "gain": 0.1,
-            "directory": ""
-        },
-        "parser": true,
-        "database": {
-            "location": ":memory:"
-        },
-        "messenger": {
-            "textmessagelength": 5000
-        },
-        "info": true,
+	"operator": "!",
+	"mumble": {
+		"server": "192.168.1.18",
+		"port": 64738,
+		"username": "Jeanne",
+		"password": "",
+		"key": "/home/pi/share/jeanne/keys/jeanne.key.pem",
+		"cert": "/home/pi/share/jeanne/keys/jeanne.crt.pem"
+	},
+	"extensions": {
+		"audio": {
+			"gain": 0.1,
+			"directory": ""
+		},
+		"parser": true,
+		"database": {
+			"location": ":memory:"
+		},
+		"messenger": {
+			"textmessagelength": 5000
+		},
+		"info": true,
 		"movement": {
 			"home": "Taverne Maggle"
 		},
-        "youtube": {
-            "search_max_results": 5,
-            "norepeat_length": 15
-        }
-    }
+		"youtube": {
+			"search_max_results": 5,
+			"norepeat_length": 15,
+			"auto_play": true,
+			"lang": "fr"
+		}
+	}
 }
