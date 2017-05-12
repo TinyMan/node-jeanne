@@ -14,8 +14,8 @@ Table of Contents
    * [Todo](#todo)
 
 
-# How does she work ? 
-Jeanne uses Google Speech API (old version) to get transcripts of your whispers. She then matches them against a set of commands. You can also type those commands to her. 
+# How does she work ?
+Jeanne uses Google Speech API (old version) to get transcripts of your whispers. She then matches them against a set of commands. You can also type those commands to her.
 
 Currently, the only language supported is french, but it should be simple to add new ones with your pull requests !
 
@@ -36,7 +36,7 @@ The list of commands currently available by typing is:
 * add < search terms or url >
 * addnext < search terms or url >
 * afk
-* baisse
+* volumedown
 * clear-buffer
 * feedback
 * gain <vol. in %>
@@ -45,7 +45,7 @@ The list of commands currently available by typing is:
 * info
 * join
 * leave
-* monte
+* volumeup
 * mute
 * pause
 * play
@@ -53,7 +53,8 @@ The list of commands currently available by typing is:
 * reboot
 * stop
 * yt < search terms or url >
-* ytnext
+* next
+* description
 
 The list of commands available through vocal recognition is (in french):
 
@@ -70,6 +71,7 @@ The list of commands available through vocal recognition is (in french):
 * pause
 * radio < nom d'une radio >
 * play / lecture
+* description
 
 ## Radios
 The list of radio currently available is:
@@ -79,6 +81,8 @@ Radio Kawa, Bim Team Radio, Nova, franceinfo, France Inter, France Musique, Skyr
 You can easily add radios by editing the file `data/radios.json`
 
 # Setup
+Since Jeanne uses [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg), you have to install `ffmpeg`. If you have some troubles please follow the instructions at https://github.com/fluent-ffmpeg/node-fluent-ffmpeg#usage
+
 Start by cloning the repo and installing the package:
 ```
 git clone https://github.com/TinyMan/node-jeanne.git
@@ -86,7 +90,7 @@ cd node-jeanne
 yarn
 ```
 
-Then, you'll need API-keys for youtube and google-speech (https://github.com/gillesdemey/google-speech-v2). They should be placed in `keys/api-keys.json`. The file should look like this:
+Then, you need API-keys for youtube and google-speech (https://github.com/gillesdemey/google-speech-v2). They should be placed in `keys/api-keys.json`. The file should look like this:
 ```json
 {
     "youtube": "your-key-here",
@@ -94,18 +98,18 @@ Then, you'll need API-keys for youtube and google-speech (https://github.com/gil
 }
 ```
 
-After that you'll need to edit your config file (`data/config.json`). You should only modify the server part and the default channel (extensions>info>movement>home)
+After that you need to edit your config file (`data/config.json`). You should only modify the server part and the default channel (extensions>info>movement>home)
 
 You can test that she runs and connects to your server by running `node index.js`
 
-## Running at startup 
+## Running at startup
 ### On debian-base linux:
-For that you'll need to install `forever`: 
+For that you need to install `forever`:
 ```
 npm i -g forever
 ```
 
-Then simply edit the file `jeanne` and replace the paths with yours: 
+Then simply edit the file `jeanne` and replace the paths with yours:
 ```bash
 ...
 pidFile="<jeanne path>/jeanne.pid"
@@ -128,4 +132,3 @@ update-rc.d -f jeanne remove
 # Todo
 * Wiki
 * Add languages
-
