@@ -1,4 +1,7 @@
 # Who is Jeanne ?
+[![Code Climate](https://codeclimate.com/github/TinyMan/node-jeanne/badges/gpa.svg)](https://codeclimate.com/github/TinyMan/node-jeanne)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/TinyMan/node-jeanne/issues)
+
 Jeanne is meant to be a powerful Music bot for Mumble, with voice recognition. She can stream youtube video and (web)radio, with features like on-the-fly playlist and auto-playing.
 
 Table of Contents

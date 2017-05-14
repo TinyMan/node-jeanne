@@ -1,6 +1,10 @@
-s = require('./lib/stumble-instance.js');
+const debug = require('./lib/logger.js')
+debug.setNS("jeanne")
+debug.enable("jeanne:*")
 
 const main = require('./lib/main.js')
 
+const s = require('./lib/stumble-instance.js');
+
 s.on('ready', main);
-console.log("Started")
+debug('').log("Started")
