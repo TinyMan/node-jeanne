@@ -28,7 +28,8 @@
 			"search_max_results": 5,
 			"norepeat_length": 15,
 			"auto_play": true,
-			"lang": "fr"
+			"lang": "fr",
+			"jump_distance": 20000
 		}
 	}
 }
