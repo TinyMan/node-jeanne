@@ -38,6 +38,7 @@ jspm_packages
 
 run.sh
 keys/
+data/database.db
 node_modules/
 *.pem
 *.p12

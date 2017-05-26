@@ -15,7 +15,7 @@
 		},
 		"parser": true,
 		"database": {
-			"location": ":memory:"
+			"location": "/home/pi/share/jeanne/data/database.db"
 		},
 		"messenger": {
 			"textmessagelength": 5000
