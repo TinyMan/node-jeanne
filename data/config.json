@@ -11,7 +11,8 @@
 	"extensions": {
 		"audio": {
 			"gain": 0.1,
-			"directory": ""
+			"directory": "",
+			"volumestep": 0.05
 		},
 		"parser": true,
 		"database": {
