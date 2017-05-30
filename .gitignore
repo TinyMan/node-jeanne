@@ -39,6 +39,7 @@ jspm_packages
 run.sh
 keys/
 data/database.db
+data/voice
 node_modules/
 *.pem
 *.p12

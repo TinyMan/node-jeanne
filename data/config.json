@@ -31,6 +31,14 @@
 			"auto_play": true,
 			"lang": "fr",
 			"jump_distance": 20000
+		},
+		"voice": {
+			"map": "/home/pi/share/jeanne/data/voice/map.json",
+			"idle_timer": {
+				"min": 300,
+				"max": 1800
+			},
+			"gain": 0.1
 		}
 	}
 }
