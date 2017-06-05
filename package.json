@@ -25,7 +25,9 @@
         "youtube-node": "^1.3.0",
         "ytdl-core": "^0.14.0"
     },
-    "devDependencies": {},
+    "devDependencies": {
+        "eslint-plugin-async-await": "^0.0.0"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/TinyMan/node-jeanne.git"
