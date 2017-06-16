@@ -6,9 +6,7 @@
 		"node": true
 	},
 	"parserOptions": {
-		"ecmaFeatures": {
-			"jsx": true
-		},
+		"ecmaVersion": 8,
 		"sourceType": "module"
 	},
 	"rules": {
@@ -18,12 +16,7 @@
 		"no-unreachable": "error",
 		"no-unused-vars": "off",
 		"constructor-super": "warn",
-		"valid-typeof": "warn",
-		"async-await/space-after-async": 2,
-		"async-await/space-after-await": 2
+		"valid-typeof": "warn"
 	},
-	"extends": "eslint:recommended",
-	"plugins": [
-		"async-await"
-	]
+	"extends": "eslint:recommended"
 }
