@@ -17,13 +17,14 @@
 		"fixedqueue": "^0.0.1",
 		"fluent-ffmpeg": "^2.1.0",
 		"google-speech": "git+https://github.com/TinyMan/google-speech.git",
+		"jamy": "^0.1.2",
 		"mumble": "git+https://github.com/TinyMan/node-mumble.git",
 		"request": "^2.81.0",
 		"sqlite3": "^3.1.6",
 		"stumble": "^1.1.1",
 		"timed-stream": "^1.0.0",
 		"youtube-node": "^1.3.0",
-		"ytdl-core": "^0.14.0"
+		"ytdl-core": "^0.14.4"
 	},
 	"devDependencies": {},
 	"repository": {
