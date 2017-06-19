@@ -1,4 +1,6 @@
 # Who is Jeanne ?
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/TinyMan/node-jeanne.svg)](https://greenkeeper.io/)
 [![Code Climate](https://codeclimate.com/github/TinyMan/node-jeanne/badges/gpa.svg)](https://codeclimate.com/github/TinyMan/node-jeanne)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/TinyMan/node-jeanne/issues)
 
