@@ -34,6 +34,7 @@
 		},
 		"voice": {
 			"map": "/home/pi/share/jeanne/data/voice/map.json",
+			"folder": "/home/pi/share/jeanne/data/voice/",
 			"idle_timer": {
 				"min": 300,
 				"max": 1800
