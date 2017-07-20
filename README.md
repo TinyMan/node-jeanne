@@ -30,8 +30,6 @@ Jeanne is based on [Stumble](https://github.com/Okahyphen/stumble). She uses:
 * [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 * ... and couple others
 
-Jeanne uses `yarn` as package manager
-
 # How to use her ?
 ## Commands
 The list of commands currently available by typing is:
@@ -90,7 +88,7 @@ Start by cloning the repo and installing the package:
 ```
 git clone https://github.com/TinyMan/node-jeanne.git
 cd node-jeanne
-yarn
+npm i
 ```
 
 Then, you need API-keys for youtube and google-speech (https://github.com/gillesdemey/google-speech-v2). They should be placed in `keys/api-keys.json`. The file should look like this:
