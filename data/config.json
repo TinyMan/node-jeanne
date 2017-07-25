@@ -14,16 +14,15 @@
 			"directory": "",
 			"volumestep": 0.05
 		},
-		"parser": true,
 		"database": {
 			"location": "/home/pi/share/jeanne/data/database.db"
 		},
 		"messenger": {
 			"textmessagelength": 5000
 		},
-		"info": true,
 		"movement": {
-			"home": "Taverne Maggle"
+			"home": "Taverne Maggle",
+			"afk": "Autre"
 		},
 		"youtube": {
 			"search_max_results": 5,
