@@ -32,47 +32,7 @@ Jeanne is based on [Stumble](https://github.com/Okahyphen/stumble). She uses:
 
 # How to use her ?
 ## Commands
-The list of commands currently available by typing is:
-
-* add < search terms or url >
-* addnext < search terms or url >
-* afk
-* volumedown
-* clear-buffer
-* feedback
-* gain <vol. in %>
-* help
-* home
-* info
-* join
-* leave
-* volumeup
-* mute
-* pause
-* play
-* radio < radio name or url >
-* reboot
-* stop
-* yt < search terms or url >
-* next
-* description
-
-The list of commands available through vocal recognition is (in french):
-
-* volume
-* stop
-* next / met la suivante
-* Je met < nom d'une musique/video >
-* reboot
-* baisse (le son) / moins fort
-* monte (le son) / plus fort
-* prépare < nom d'une musique/video >
-* ajoute < nom d'une musique/video >
-* mute / muet(te)
-* pause
-* radio < nom d'une radio >
-* play / lecture
-* description
+Please see the wiki [commands page](https://github.com/TinyMan/node-jeanne/wiki/Commands).
 
 ## Radios
 The list of radio currently available is:
