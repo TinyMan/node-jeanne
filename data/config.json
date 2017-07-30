@@ -8,6 +8,7 @@
 		"key": "/home/pi/share/jeanne/keys/jeanne.key.pem",
 		"cert": "/home/pi/share/jeanne/keys/jeanne.crt.pem"
 	},
+	"locale": "fr",
 	"extensions": {
 		"audio": {
 			"gain": 0.1,
