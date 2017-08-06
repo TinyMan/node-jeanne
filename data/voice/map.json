@@ -1,0 +1,15 @@
+{
+	"idle": [
+		"idle1.raw"
+	],
+	"welcome": [
+		"hello.raw"
+	],
+	"stop": [],
+	"failure": [],
+	"goodbye": [
+		"Goodbye1.raw"
+	],
+	"laugh": [],
+	"special": {}
+}
