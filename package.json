@@ -29,7 +29,7 @@
 		"sylvia": "^0.1.0",
 		"timed-stream": "^1.1.0",
 		"youtube-node": "^1.3.2",
-		"ytdl-core": "^0.14.4"
+		"ytdl-core": "^0.20.1"
 	},
 	"devDependencies": {},
 	"repository": {
