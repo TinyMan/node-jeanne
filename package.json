@@ -4,7 +4,9 @@
   "description": "Jeanne is meant to be a powerful Music bot for Mumble, with voice recognition",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "TinyMan <raph.a.uzan@gmail.com>",
   "license": "MIT",
@@ -29,7 +31,8 @@
     "sylvia": "^0.1.0",
     "timed-stream": "^1.1.0",
     "youtube-node": "^1.3.2",
-    "ytdl-core": "^0.20.1"
+    "ytdl-core": "^0.20.1",
+    "snyk": "^1.83.0"
   },
   "devDependencies": {},
   "repository": {
@@ -45,5 +48,6 @@
   "bugs": {
     "url": "https://github.com/TinyMan/node-jeanne/issues"
   },
-  "homepage": "https://github.com/TinyMan/node-jeanne#readme"
+  "homepage": "https://github.com/TinyMan/node-jeanne#readme",
+  "snyk": true
 }
