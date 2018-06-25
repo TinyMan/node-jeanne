@@ -44,3 +44,6 @@ patch:
         patched: '2018-06-25T01:32:25.418Z'
     - sylvia > serialport > node-pre-gyp > request > hawk > cryptiles > boom > hoek:
         patched: '2018-06-25T01:32:25.418Z'
+  'npm:tunnel-agent:20170305':
+    - youtube-node > request > tunnel-agent:
+        patched: '2018-06-25T18:31:00.557Z'
