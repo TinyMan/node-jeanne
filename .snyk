@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.12.0
+version: v1.14.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -47,3 +47,20 @@ patch:
   'npm:tunnel-agent:20170305':
     - youtube-node > request > tunnel-agent:
         patched: '2018-06-25T18:31:00.557Z'
+  SNYK-JS-LODASH-567746:
+    - fluent-ffmpeg > async > lodash:
+        patched: '2020-05-04T05:08:27.571Z'
+    - googleapis > async > lodash:
+        patched: '2020-05-04T05:08:27.571Z'
+    - stumble > cheerio > lodash:
+        patched: '2020-05-04T05:08:27.571Z'
+    - jamy > fluent-ffmpeg > async > lodash:
+        patched: '2020-05-04T05:08:27.571Z'
+    - stumble > fluent-ffmpeg > async > lodash:
+        patched: '2020-05-04T05:08:27.571Z'
+    - jamy > request-promise-native > request-promise-core > lodash:
+        patched: '2020-05-04T05:08:27.571Z'
+    - youtube-node > prompt > utile > async > lodash:
+        patched: '2020-05-04T05:08:27.571Z'
+    - youtube-node > prompt > winston > async > lodash:
+        patched: '2020-05-04T05:08:27.571Z'
