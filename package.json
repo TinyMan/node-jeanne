@@ -25,7 +25,7 @@
     "jamy": "^0.2.1",
     "mumble": "git+https://github.com/TinyMan/node-mumble.git",
     "parse-youtube-user": "0.0.2",
-    "request": "^2.81.0",
+    "request": "^2.87.0",
     "sqlite3": "^4.0.0",
     "stumble": "^1.1.1",
     "sylvia": "^0.1.0",
