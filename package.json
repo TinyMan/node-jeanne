@@ -16,7 +16,7 @@
     "cheerio": "^0.22.0",
     "debug": "^2.6.8",
     "es6-promisify": "^5.0.0",
-    "file-type": "^3.8.0",
+    "file-type": "^16.5.4",
     "fixedqueue": "^0.0.1",
     "fluent-ffmpeg": "^2.1.0",
     "google-speech": "git+https://github.com/TinyMan/google-speech.git",
