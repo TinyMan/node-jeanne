@@ -47,3 +47,6 @@ patch:
   'npm:tunnel-agent:20170305':
     - youtube-node > request > tunnel-agent:
         patched: '2018-06-25T18:31:00.557Z'
+  'npm:http-signature:20150122':
+    - youtube-node > request > http-signature:
+        patched: '2018-07-09T01:30:10.881Z'
