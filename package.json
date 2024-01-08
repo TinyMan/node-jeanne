@@ -26,7 +26,7 @@
     "mumble": "git+https://github.com/TinyMan/node-mumble.git",
     "parse-youtube-user": "0.0.2",
     "request": "^2.81.0",
-    "sqlite3": "^5.0.3",
+    "sqlite3": "^5.1.7",
     "stumble": "^1.1.1",
     "sylvia": "^0.1.0",
     "timed-stream": "^1.1.0",
