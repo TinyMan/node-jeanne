@@ -13,7 +13,7 @@
   "dependencies": {
     "app-module-path": "^2.2.0",
     "autolink-js": "^1.0.2",
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0",
     "debug": "^2.6.8",
     "es6-promisify": "^5.0.0",
     "file-type": "^3.8.0",
