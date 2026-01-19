@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.12.0
+version: v1.25.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -47,3 +47,8 @@ patch:
   'npm:tunnel-agent:20170305':
     - youtube-node > request > tunnel-agent:
         patched: '2018-06-25T18:31:00.557Z'
+  'npm:tough-cookie:20170905':
+    - stumble > sqlite3 > node-pre-gyp > request > tough-cookie:
+        patched: '2026-01-19T17:01:23.423Z'
+        id: 'npm:tough-cookie:20170905'
+        path: stumble > sqlite3 > node-pre-gyp > request > tough-cookie
